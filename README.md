@@ -36,6 +36,11 @@ Visualizes current month revenue against previous month’s target Focuses on la
 
 Created bookmark for “📍 Portland hits 1,000 sales in December” Configured button navigation and page-level notes Disabled unwanted interactions between visuals for better user experience
 
+![image_alt](https://github.com/gauravgaira/Power-BI-Walmart-Dashboard/blob/96f1a184de00f23ffad45de4b288383cb174cfbe/Dashboard%201.jpg)
+
+
+
+
 
 📈 Top Insights Uncovered:-
 ✅ Portland reached 1,000+ sales in December — high-performing city
